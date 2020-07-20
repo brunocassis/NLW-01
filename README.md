@@ -65,7 +65,7 @@ To access the layout use [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xW
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] or [npm][npm] installed on your computer.
 
 From your command line:
 
@@ -80,6 +80,7 @@ $ cd NLW-01/server
 
 # Install dependencies
 $ yarn install
+# All yarn commands can be made using npm also!
 
 # Run Migrates
 $ yarn knex:migrate
@@ -150,6 +151,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/brun
 
 Done by Bruno Assis :wave: [Get in touch!](https://www.linkedin.com/in/bruno-conehero-de-assis-06073a104/)
 
+[npm]: https://www.npmjs.com/
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [expo]: https://expo.io/
