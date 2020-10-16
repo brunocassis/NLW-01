@@ -7,7 +7,7 @@
 </h4>
 <p align="center">	
 	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunocassis/NextLevelWeek01">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunocassis/Ecoleta">
 	
   <a href="https://www.linkedin.com/in/bruno-conehero-de-assis-06073a104/">
     <img alt="Made by Bruno Assis" src="https://img.shields.io/badge/made%20by-BrunoAssis-%2304D361">
@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   
-  <a href="https://github.com/brunocassis/NextLevelWeek01/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunocassis/NextLevelWeek01">
+  <a href="https://github.com/brunocassis/Ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunocassis/Ecoleta">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -73,10 +73,10 @@ From your command line:
 
 ```bash
 # First, clone this repository
-$ git clone https://github.com/brunocassis/NLW-01.git
+$ git clone https://github.com/brunocassis/Ecoleta.git
 
 # Go into the repository
-$ cd NLW-01/server
+$ cd Ecoleta/server
 
 # Install dependencies
 $ yarn install
@@ -98,11 +98,8 @@ $ yarn dev
 ### Install Front-end
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/brunocassis/NLW-01.git
-
-# Go into the repository
-$ cd NLW-01/web
+# Go into the web repository
+$ cd Ecoleta/web
 
 # Install dependencies
 $ yarn install
@@ -116,11 +113,8 @@ $ yarn start
 ### Install Mobile
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/brunocassis/NLW-01.git
-
-# Go into the repository
-$ cd NLW-01/mobile
+# Go into the mobile repository
+$ cd Ecoleta/mobile
 
 # Install dependencies
 $ yarn install
@@ -128,7 +122,7 @@ $ yarn install
 # Run
 $ yarn start
 
-# Expo will open, just scan the qrcode on terminal or expo page
+# Expo will open, just scan the QRcode on terminal to run on your physical device
 
 # If some problem with fonts, execute:
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
@@ -145,7 +139,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/brunocassis/NLW-01/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/brunocassis/Ecoleta/blob/master/LICENSE) for details.
 
 ---
 
